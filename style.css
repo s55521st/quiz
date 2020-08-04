@@ -1,0 +1,70 @@
+body {
+  background-image: url("img/background img.png");
+}
+h1 {
+  color: rgb(196, 146, 55);
+  padding: 10px 120px 10px 400px;
+  margin: 0px 200px;
+  background-color: rgb(236, 223, 146);
+  border-radius: 15px;
+}
+h3 {
+  color: rgb(247, 221, 75);
+  background-color: rgb(206, 172, 109);
+  padding: 15px 10px 15px 105px;
+  margin: 15px 200px 30px 800px;
+  border-radius: 10px;
+}
+.img1 {
+  margin: 0px 570px 20px 570px;
+}
+.img2-1 {
+  height: 100px;
+  width: 100px;
+  margin: 0px 110px 0px 110px;
+}
+.img2-2 {
+  height: 100px;
+  width: 100px;
+  margin: 0px 110px 0px 100px;
+}
+.img2-3 {
+  height: 100px;
+  width: 100px;
+  margin: 0px 110px 0px 95px;
+}
+.img2-4 {
+  height: 100px;
+  width: 100px;
+  margin: 0px 110px 0px 90px;
+}
+header {
+  height: 400px;
+  width: 100%;
+}
+.text1 {
+  margin: 0px 20px 0px 165px;
+  height: 160px;
+  width: 280px;
+}
+.text2 {
+  margin: 0px 20px 0px 0px;
+  height: 160px;
+  width: 280px;
+}
+.text3 {
+  margin: 0px 0px 0px 0px;
+  height: 160px;
+  width: 280px;
+}
+.text4 {
+  margin: 0px 0px 0px 20px;
+  height: 160px;
+  width: 280px;
+}
+a {
+  color: rgb(196, 146, 55);
+}
+h4{
+  color: rgb(196, 146, 55);
+}
